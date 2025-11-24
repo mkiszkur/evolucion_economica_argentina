@@ -1,0 +1,11 @@
+country1,country2,dtw_distance,overlap_years,country1_name,country2_name
+ETH,JPN,5.419853202790371,33,Ethiopia,Japan
+BGD,JPN,5.329239307029073,33,Bangladesh,Japan
+JPN,ZWE,5.305419845666694,33,Japan,Zimbabwe
+BGD,SDN,5.299920715590163,33,Bangladesh,Sudan
+ETH,SDN,5.125026001810991,33,Ethiopia,Sudan
+CIV,JPN,5.086346319192837,33,Cote d'Ivoire,Japan
+JPN,KEN,5.069119787094349,33,Japan,Kenya
+GIN,SDN,5.0583047154394265,33,Guinea,Sudan
+CIV,SDN,5.014087428259577,33,Cote d'Ivoire,Sudan
+JPN,LAO,5.010920154636362,33,Japan,Lao PDR

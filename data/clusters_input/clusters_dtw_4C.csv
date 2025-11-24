@@ -1,0 +1,142 @@
+country_code,cluster,country_name,cluster_bm,cluster_name,x,y
+ABW,2,Aruba,High income,Cluster 2 (47 países),-1.1216166701531551,-0.8933465881255047
+AGO,1,Angola,Lower middle income,Cluster 1 (11 países),1.309705644395535,-2.0902071939896407
+ALB,3,Albania,Upper middle income,Cluster 3 (67 países),-0.4936115622827414,0.2867163885019444
+ARG,1,Argentina,Upper middle income,Cluster 1 (11 países),1.2045124001572833,-1.5953316197015177
+ATG,2,Antigua and Barbuda,High income,Cluster 2 (47 países),-0.5965048182640034,-0.44100151232086693
+AUS,0,Australia,High income,Cluster 0 (16 países),0.272984403197733,-0.0538427620254273
+AUT,2,Austria,High income,Cluster 2 (47 países),-0.6571408311578902,-0.29890419070520224
+BDI,0,Burundi,Low income,Cluster 0 (16 países),1.0250897971426327,0.6401042894546599
+BEL,2,Belgium,High income,Cluster 2 (47 países),-0.6545306415555942,-0.24782984439066555
+BEN,3,Benin,Lower middle income,Cluster 3 (67 países),-0.3696629488674055,0.6128384938224561
+BFA,3,Burkina Faso,Low income,Cluster 3 (67 países),0.07712761267431305,0.9516679269883846
+BGD,3,Bangladesh,Lower middle income,Cluster 3 (67 países),-0.11454697087416478,1.7633575617196113
+BGR,3,Bulgaria,Upper middle income,Cluster 3 (67 países),0.5333726921862116,0.9208346482869616
+BHR,3,Bahrain,High income,Cluster 3 (67 países),-0.09631436765991161,0.09444402492882348
+BHS,2,"Bahamas, The",High income,Cluster 2 (47 países),-1.100549197195151,-1.4531817977914419
+BLZ,2,Belize,Upper middle income,Cluster 2 (47 países),-0.7978201778514629,-0.11372213779888123
+BOL,3,Bolivia,Lower middle income,Cluster 3 (67 países),-0.06053280751426782,0.7943975648586404
+BRA,1,Brazil,Upper middle income,Cluster 1 (11 países),0.7345406029136248,-1.7449123605450947
+BRB,2,Barbados,High income,Cluster 2 (47 países),-0.6427417974611326,-0.6818752234639895
+BRN,1,Brunei Darussalam,High income,Cluster 1 (11 países),0.42118121954961363,-1.5292597007525242
+BTN,3,Bhutan,,Cluster 3 (67 países),-0.10501342408553647,0.8115719919574774
+BWA,3,Botswana,Upper middle income,Cluster 3 (67 países),-0.26676285158398955,0.22613253936370611
+CAF,0,Central African Republic,Low income,Cluster 0 (16 países),1.8055600468679645,0.6363421183939625
+CAN,2,Canada,High income,Cluster 2 (47 países),0.08094271825294926,-0.11204277913641583
+CHL,2,Chile,High income,Cluster 2 (47 países),-0.21319925946822826,-0.0006169179282542292
+CHN,3,China,Upper middle income,Cluster 3 (67 países),-0.06956762023233322,1.2815003531821167
+CIV,3,Cote d'Ivoire,,Cluster 3 (67 países),0.1611909593597404,1.5293354778599326
+CMR,3,Cameroon,Lower middle income,Cluster 3 (67 países),0.3460018951266076,0.6394178924584701
+COG,0,"Congo, Rep.",Lower middle income,Cluster 0 (16 países),1.0236374457332618,-0.5622309574898191
+COL,2,Colombia,Upper middle income,Cluster 2 (47 países),0.19488401364106744,-0.8248059556617787
+COM,3,Comoros,Lower middle income,Cluster 3 (67 países),0.20365206463985874,0.3033036501492627
+CPV,2,Cabo Verde,Lower middle income,Cluster 2 (47 países),-0.0035694442129408097,-0.6485956710135837
+CRI,3,Costa Rica,Upper middle income,Cluster 3 (67 países),-0.32216410079443764,0.39773581825172594
+CYP,2,Cyprus,High income,Cluster 2 (47 países),-0.34935922363554944,-0.9066529321622275
+DEU,2,Germany,High income,Cluster 2 (47 países),0.6593845885220896,-0.09782252624951376
+DMA,2,Dominica,Upper middle income,Cluster 2 (47 países),-0.4950014377253535,-0.4355405495432896
+DNK,2,Denmark,High income,Cluster 2 (47 países),-0.744493304733639,-0.09204123864377135
+DOM,3,Dominican Republic,Upper middle income,Cluster 3 (67 países),-0.4944896925633164,0.4541238807978862
+DZA,1,Algeria,Lower middle income,Cluster 1 (11 países),0.9113958100781917,-1.1070876733131403
+ECU,3,Ecuador,Upper middle income,Cluster 3 (67 países),-0.030166937727270634,0.07931838592760461
+EGY,3,"Egypt, Arab Rep.",Lower middle income,Cluster 3 (67 países),-0.40527325646979656,0.9510710731101402
+ESP,2,Spain,High income,Cluster 2 (47 países),-0.17015478407990162,-1.0306278486386378
+ETH,3,Ethiopia,Low income,Cluster 3 (67 países),0.22142804808140654,1.7859159340106638
+FIN,2,Finland,High income,Cluster 2 (47 países),0.6347125616585931,-0.20724505151330058
+FJI,2,Fiji,Upper middle income,Cluster 2 (47 países),0.001466484966579254,-0.8644148882366716
+FRA,2,France,High income,Cluster 2 (47 países),-0.4832417800236264,-0.7249099926973778
+GAB,0,Gabon,Upper middle income,Cluster 0 (16 países),0.5638442154244621,-0.07075597422320005
+GBR,2,United Kingdom,High income,Cluster 2 (47 países),-0.9587949530295053,-0.7197311645206782
+GHA,3,Ghana,Lower middle income,Cluster 3 (67 países),0.3509760889123351,1.1078479264360113
+GIN,3,Guinea,Lower middle income,Cluster 3 (67 países),-0.36621701728105877,1.3571961842965705
+GMB,2,"Gambia, The",Low income,Cluster 2 (47 países),-1.5462174459436306,0.35994688986873613
+GNB,3,Guinea-Bissau,Low income,Cluster 3 (67 países),-0.268761020558517,0.8435147744728915
+GRD,2,Grenada,Upper middle income,Cluster 2 (47 países),-0.624338499452423,0.0427936745389441
+GTM,3,Guatemala,Upper middle income,Cluster 3 (67 países),-0.42932154429730474,0.8236867570971481
+GUY,3,Guyana,High income,Cluster 3 (67 países),-0.5601972420236493,1.260596115084649
+HKG,3,"Hong Kong SAR, China",High income,Cluster 3 (67 países),-0.9503877553666027,0.40430672055751304
+HND,3,Honduras,Lower middle income,Cluster 3 (67 países),-0.1939605536823186,0.7863134250474789
+HTI,3,Haiti,Lower middle income,Cluster 3 (67 países),0.4934478361517389,0.468098203791634
+IDN,3,Indonesia,Upper middle income,Cluster 3 (67 países),0.07564619458596736,0.5487655273062167
+IND,3,India,Lower middle income,Cluster 3 (67 países),-0.1219017267528414,0.9379048115548425
+IRL,3,Ireland,High income,Cluster 3 (67 países),-0.8898275902369589,0.8186480950411773
+IRQ,0,Iraq,Upper middle income,Cluster 0 (16 países),2.35441796620135,-0.13564396002938348
+ISL,3,Iceland,High income,Cluster 3 (67 países),1.299129532533104,0.5855171940180947
+ISR,3,Israel,High income,Cluster 3 (67 países),-0.6184864609996106,0.9869061240310076
+ITA,2,Italy,High income,Cluster 2 (47 países),0.09046125661230014,-1.3971669285457977
+JAM,2,Jamaica,Upper middle income,Cluster 2 (47 países),-0.9813067324959397,-1.0373256682793606
+JOR,3,Jordan,Lower middle income,Cluster 3 (67 países),-0.20266310660873166,0.5787514144081389
+JPN,1,Japan,High income,Cluster 1 (11 países),-0.6313697142479386,-3.735418300813156
+KEN,3,Kenya,Lower middle income,Cluster 3 (67 países),-0.07126812085239333,1.3430836615341897
+KIR,3,Kiribati,Lower middle income,Cluster 3 (67 países),-0.3378700839674866,0.25939029619784815
+KNA,2,St. Kitts and Nevis,High income,Cluster 2 (47 países),-0.23619241152741427,-0.8695257458553594
+KOR,3,"Korea, Rep.",High income,Cluster 3 (67 países),-0.6621842221183304,0.32255484963730624
+KWT,0,Kuwait,High income,Cluster 0 (16 países),0.8077864788373336,-0.8453581693701664
+LAO,3,Lao PDR,Lower middle income,Cluster 3 (67 países),0.01208389534246169,1.0672157100382633
+LBN,1,Lebanon,,Cluster 1 (11 países),-0.3648356834209187,-2.2669630761205632
+LCA,2,St. Lucia,Upper middle income,Cluster 2 (47 países),-0.28577762776609184,-0.33878242904790246
+LIE,3,Liechtenstein,,Cluster 3 (67 países),-0.8087860044344006,0.5431027493471763
+LKA,3,Sri Lanka,Lower middle income,Cluster 3 (67 países),0.12329076871700356,0.1942547547452447
+LSO,2,Lesotho,Lower middle income,Cluster 2 (47 países),-0.0921243292977238,-1.2122905847204246
+LUX,2,Luxembourg,High income,Cluster 2 (47 países),-1.0320010006069915,0.034526861513851016
+MAC,1,"Macao SAR, China",High income,Cluster 1 (11 países),0.7446056520671431,-0.9783257843089725
+MAR,3,Morocco,Lower middle income,Cluster 3 (67 países),-0.38297444261643315,0.129841326357232
+MDG,3,Madagascar,Low income,Cluster 3 (67 países),-0.08578163592935294,0.17339202247660856
+MDV,3,Maldives,Upper middle income,Cluster 3 (67 países),0.510964233364862,0.309469946802946
+MEX,2,Mexico,Upper middle income,Cluster 2 (47 países),-0.7983165715912535,-1.089929802273818
+MLI,3,Mali,Low income,Cluster 3 (67 países),-0.08894114921468309,0.6888268190500064
+MLT,3,Malta,High income,Cluster 3 (67 países),-0.597978849755919,0.8666190254987438
+MMR,3,Myanmar,Lower middle income,Cluster 3 (67 países),0.3232472485494311,0.25031274876602594
+MNG,0,Mongolia,Lower middle income,Cluster 0 (16 países),0.8828329932590572,0.8680098269093717
+MRT,3,Mauritania,Lower middle income,Cluster 3 (67 países),-0.017117786582809175,0.6235980892353964
+MUS,2,Mauritius,Upper middle income,Cluster 2 (47 países),-0.12302623742810005,-0.6379611444328682
+MWI,0,Malawi,Low income,Cluster 0 (16 países),0.8644948126369053,0.2752806041887187
+MYS,3,Malaysia,Upper middle income,Cluster 3 (67 países),-0.16499882317245282,0.12996252402752545
+NAM,2,Namibia,Upper middle income,Cluster 2 (47 países),0.09018162657491204,-0.5823095229355667
+NCL,2,New Caledonia,,Cluster 2 (47 países),-0.10522725711228538,-0.6900223223871181
+NER,3,Niger,Low income,Cluster 3 (67 países),0.1138843401318374,0.8284587364581989
+NIC,2,Nicaragua,Lower middle income,Cluster 2 (47 países),-0.9227471378462774,-0.057985583378340706
+NLD,2,Netherlands,High income,Cluster 2 (47 países),-0.94614804256654,-0.21248060259050422
+NOR,2,Norway,High income,Cluster 2 (47 países),0.23142459178248784,-0.8087972062285013
+NPL,3,Nepal,Lower middle income,Cluster 3 (67 países),-0.06173702944564472,1.1790842107814365
+NZL,3,New Zealand,High income,Cluster 3 (67 países),-0.07645067980072735,0.56500821487081
+OMN,2,Oman,High income,Cluster 2 (47 países),0.30935656334031286,-0.3051798654328417
+PAK,3,Pakistan,Lower middle income,Cluster 3 (67 países),-0.1759242164780542,0.27209813977029546
+PAN,3,Panama,High income,Cluster 3 (67 países),-0.03852064599914094,0.7652980209492085
+PER,3,Peru,Upper middle income,Cluster 3 (67 países),-0.23067579096716576,0.10277280604690611
+PHL,3,Philippines,Lower middle income,Cluster 3 (67 países),-0.2536293200029596,0.5718555505119525
+PNG,3,Papua New Guinea,Lower middle income,Cluster 3 (67 países),0.4573217805829637,0.6556999213999616
+PRI,2,Puerto Rico,High income,Cluster 2 (47 países),-1.0095253103917812,-0.5395108076157306
+PRT,2,Portugal,High income,Cluster 2 (47 países),-0.8528133505784143,-0.8621700711068169
+QAT,0,Qatar,High income,Cluster 0 (16 países),0.5762143583786654,-0.20234546973075315
+ROU,3,Romania,High income,Cluster 3 (67 países),0.26740504123180237,0.6708866432917368
+RUS,0,Russian Federation,Upper middle income,Cluster 0 (16 países),1.4689060302380135,-0.5912813752454014
+RWA,3,Rwanda,Low income,Cluster 3 (67 países),0.4145462381741666,1.025249009570262
+SAU,3,Saudi Arabia,High income,Cluster 3 (67 países),0.10933367051372901,0.2449352358995031
+SDN,1,Sudan,Low income,Cluster 1 (11 países),2.607675346956068,-2.982251190801298
+SEN,3,Senegal,Lower middle income,Cluster 3 (67 países),0.12311977318866148,0.9322831469217815
+SGP,3,Singapore,High income,Cluster 3 (67 países),-0.353153376228267,0.1541403418664892
+SLB,3,Solomon Islands,Lower middle income,Cluster 3 (67 países),-0.5127879233869858,0.5609162548940612
+SLE,0,Sierra Leone,Low income,Cluster 0 (16 países),0.8641206953452174,-0.057075621419474164
+SLV,2,El Salvador,Upper middle income,Cluster 2 (47 países),-0.9094722173363436,0.1367735060946521
+SUR,1,Suriname,Upper middle income,Cluster 1 (11 países),0.5798066323155032,-2.08042538472085
+SWE,2,Sweden,High income,Cluster 2 (47 países),0.3957443181250798,-0.10372570484366385
+SYC,1,Seychelles,High income,Cluster 1 (11 países),-0.3198272300266966,-1.393515353879491
+TCD,0,Chad,Low income,Cluster 0 (16 países),0.5070050456227554,-0.44931113339496503
+TGO,3,Togo,Low income,Cluster 3 (67 países),0.21903875756245697,0.827559524217683
+THA,3,Thailand,Upper middle income,Cluster 3 (67 países),-0.5566189749855471,0.5017774483066343
+TON,2,Tonga,,Cluster 2 (47 países),-0.5574917950496164,-0.1303463108852928
+TTO,2,Trinidad and Tobago,High income,Cluster 2 (47 países),0.29128483050783477,-1.035331201179495
+TUN,2,Tunisia,Lower middle income,Cluster 2 (47 países),-0.5237113932348245,-0.8807907084097488
+TUR,2,Turkiye,,Cluster 2 (47 países),0.06848628198366175,-0.9819039170753715
+TZA,3,Tanzania,Lower middle income,Cluster 3 (67 países),-0.27553468654055135,0.9330583279885948
+UGA,3,Uganda,Low income,Cluster 3 (67 países),0.34731067743406563,0.7522701471259705
+UKR,0,Ukraine,Lower middle income,Cluster 0 (16 países),2.4274951665513873,0.27572007512037344
+URY,2,Uruguay,High income,Cluster 2 (47 países),0.34765516770580185,-0.5031829782733349
+USA,3,United States,High income,Cluster 3 (67 países),-0.7719300747939158,0.43194663318689697
+VCT,2,St. Vincent and the Grenadines,Upper middle income,Cluster 2 (47 países),-0.7228017508567607,-0.2608947158642033
+VNM,3,Viet Nam,Lower middle income,Cluster 3 (67 países),-0.1291479390336741,1.118130772389768
+VUT,3,Vanuatu,Lower middle income,Cluster 3 (67 países),-0.3567844728106977,0.7693278533716197
+ZAF,2,South Africa,Upper middle income,Cluster 2 (47 países),0.40663926240879,-0.8007115494480385
+ZMB,0,Zambia,Lower middle income,Cluster 0 (16 países),0.8175246293697378,-0.6259376403116906
+ZWE,0,Zimbabwe,Lower middle income,Cluster 0 (16 países),1.653135858538828,1.8050986946019492

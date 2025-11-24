@@ -1,0 +1,192 @@
+country_code,km_cluster,dtw_cluster,bm_cluster
+ABW,0.0,2.0,High income
+AGO,3.0,1.0,Lower middle income
+ALB,3.0,3.0,Upper middle income
+ARE,2.0,,High income
+ARG,3.0,1.0,Upper middle income
+ARM,3.0,,Upper middle income
+ATG,0.0,2.0,High income
+AUS,2.0,0.0,High income
+AUT,2.0,2.0,High income
+AZE,3.0,,Upper middle income
+BDI,3.0,0.0,Low income
+BEL,2.0,2.0,High income
+BEN,3.0,3.0,Lower middle income
+BFA,3.0,3.0,Low income
+BGD,3.0,3.0,Lower middle income
+BGR,3.0,3.0,Upper middle income
+BHR,0.0,3.0,High income
+BHS,0.0,2.0,High income
+BIH,3.0,,Upper middle income
+BLR,3.0,,Upper middle income
+BLZ,3.0,2.0,Upper middle income
+BMU,1.0,,High income
+BOL,3.0,3.0,Lower middle income
+BRA,3.0,1.0,Upper middle income
+BRB,0.0,2.0,High income
+BRN,0.0,1.0,High income
+BTN,,3.0,
+BWA,3.0,3.0,Upper middle income
+CAF,3.0,0.0,Low income
+CAN,2.0,2.0,High income
+CHE,1.0,,High income
+CHL,0.0,2.0,High income
+CHN,3.0,3.0,Upper middle income
+CIV,,3.0,
+CMR,3.0,3.0,Lower middle income
+COD,3.0,,Low income
+COG,3.0,0.0,Lower middle income
+COL,3.0,2.0,Upper middle income
+COM,3.0,3.0,Lower middle income
+CPV,3.0,2.0,Lower middle income
+CRI,3.0,3.0,Upper middle income
+CYP,0.0,2.0,High income
+CZE,0.0,,High income
+DEU,2.0,2.0,High income
+DJI,3.0,,Lower middle income
+DMA,3.0,2.0,Upper middle income
+DNK,1.0,2.0,High income
+DOM,3.0,3.0,Upper middle income
+DZA,3.0,1.0,Lower middle income
+ECU,3.0,3.0,Upper middle income
+EGY,3.0,3.0,Lower middle income
+ESP,0.0,2.0,High income
+EST,0.0,,High income
+ETH,3.0,3.0,Low income
+FIN,2.0,2.0,High income
+FJI,3.0,2.0,Upper middle income
+FRA,2.0,2.0,High income
+FRO,1.0,,High income
+FSM,3.0,,Lower middle income
+GAB,3.0,0.0,Upper middle income
+GBR,2.0,2.0,High income
+GEO,3.0,,Upper middle income
+GHA,3.0,3.0,Lower middle income
+GIN,3.0,3.0,Lower middle income
+GMB,3.0,2.0,Low income
+GNB,3.0,3.0,Low income
+GNQ,3.0,,Upper middle income
+GRC,0.0,,High income
+GRD,3.0,2.0,Upper middle income
+GTM,3.0,3.0,Upper middle income
+GUY,0.0,3.0,High income
+HKG,2.0,3.0,High income
+HND,3.0,3.0,Lower middle income
+HRV,0.0,,High income
+HTI,3.0,3.0,Lower middle income
+HUN,0.0,,High income
+IDN,3.0,3.0,Upper middle income
+IND,3.0,3.0,Lower middle income
+IRL,1.0,3.0,High income
+IRN,3.0,,Lower middle income
+IRQ,3.0,0.0,Upper middle income
+ISL,1.0,3.0,High income
+ISR,2.0,3.0,High income
+ITA,0.0,2.0,High income
+JAM,3.0,2.0,Upper middle income
+JOR,3.0,3.0,Lower middle income
+JPN,0.0,1.0,High income
+KAZ,3.0,,Upper middle income
+KEN,3.0,3.0,Lower middle income
+KGZ,3.0,,Lower middle income
+KHM,3.0,,Lower middle income
+KIR,3.0,3.0,Lower middle income
+KNA,0.0,2.0,High income
+KOR,0.0,3.0,High income
+KWT,2.0,0.0,High income
+LAO,3.0,3.0,Lower middle income
+LBN,,1.0,
+LBR,3.0,,Low income
+LBY,3.0,,Upper middle income
+LCA,3.0,2.0,Upper middle income
+LIE,,3.0,
+LKA,3.0,3.0,Lower middle income
+LSO,3.0,2.0,Lower middle income
+LTU,0.0,,High income
+LUX,1.0,2.0,High income
+LVA,0.0,,High income
+MAC,2.0,1.0,High income
+MAR,3.0,3.0,Lower middle income
+MDA,3.0,,Upper middle income
+MDG,3.0,3.0,Low income
+MDV,3.0,3.0,Upper middle income
+MEX,3.0,2.0,Upper middle income
+MHL,3.0,,Upper middle income
+MKD,3.0,,Upper middle income
+MLI,3.0,3.0,Low income
+MLT,0.0,3.0,High income
+MMR,3.0,3.0,Lower middle income
+MNE,3.0,,Upper middle income
+MNG,3.0,0.0,Lower middle income
+MOZ,3.0,,Low income
+MRT,3.0,3.0,Lower middle income
+MUS,3.0,2.0,Upper middle income
+MWI,3.0,0.0,Low income
+MYS,3.0,3.0,Upper middle income
+NAM,3.0,2.0,Upper middle income
+NCL,,2.0,
+NER,3.0,3.0,Low income
+NGA,3.0,,Lower middle income
+NIC,3.0,2.0,Lower middle income
+NLD,2.0,2.0,High income
+NOR,1.0,2.0,High income
+NPL,3.0,3.0,Lower middle income
+NRU,0.0,,High income
+NZL,2.0,3.0,High income
+OMN,0.0,2.0,High income
+PAK,3.0,3.0,Lower middle income
+PAN,0.0,3.0,High income
+PER,3.0,3.0,Upper middle income
+PHL,3.0,3.0,Lower middle income
+PNG,3.0,3.0,Lower middle income
+POL,0.0,,High income
+PRI,0.0,2.0,High income
+PRT,0.0,2.0,High income
+PRY,3.0,,Upper middle income
+PSE,3.0,,Upper middle income
+QAT,1.0,0.0,High income
+ROU,0.0,3.0,High income
+RUS,0.0,0.0,Upper middle income
+RWA,3.0,3.0,Low income
+SAU,0.0,3.0,High income
+SDN,3.0,1.0,Low income
+SEN,3.0,3.0,Lower middle income
+SGP,1.0,3.0,High income
+SLB,3.0,3.0,Lower middle income
+SLE,3.0,0.0,Low income
+SLV,3.0,2.0,Upper middle income
+SOM,3.0,,Low income
+SRB,3.0,,Upper middle income
+SUR,3.0,1.0,Upper middle income
+SVK,0.0,,High income
+SVN,0.0,,High income
+SWE,2.0,2.0,High income
+SWZ,3.0,,Lower middle income
+SXM,0.0,,High income
+SYC,3.0,1.0,High income
+TCA,0.0,,High income
+TCD,3.0,0.0,Low income
+TGO,3.0,3.0,Low income
+THA,3.0,3.0,Upper middle income
+TJK,3.0,,Lower middle income
+TKM,3.0,,Upper middle income
+TLS,3.0,,Lower middle income
+TON,,2.0,
+TTO,0.0,2.0,High income
+TUN,3.0,2.0,Lower middle income
+TUR,,2.0,
+TUV,3.0,,Upper middle income
+TZA,3.0,3.0,Lower middle income
+UGA,3.0,3.0,Low income
+UKR,3.0,0.0,Lower middle income
+URY,0.0,2.0,High income
+USA,1.0,3.0,High income
+UZB,3.0,,Lower middle income
+VCT,3.0,2.0,Upper middle income
+VNM,3.0,3.0,Lower middle income
+VUT,3.0,3.0,Lower middle income
+WSM,3.0,,Lower middle income
+XKX,3.0,,Upper middle income
+ZAF,3.0,2.0,Upper middle income
+ZMB,3.0,0.0,Lower middle income
+ZWE,3.0,0.0,Lower middle income

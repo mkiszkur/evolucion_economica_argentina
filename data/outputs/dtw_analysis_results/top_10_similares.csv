@@ -1,0 +1,11 @@
+country1,country2,dtw_distance,overlap_years,country1_name,country2_name
+AUT,BEL,0.1723309708779794,33,Austria,Belgium
+BTN,IND,0.2984728861906248,33,Bhutan,India
+BEL,DNK,0.3365087092151453,33,Belgium,Denmark
+CRI,PHL,0.3387211209730258,33,Costa Rica,Philippines
+BOL,PAN,0.3404709804293566,33,Bolivia,Panama
+JOR,PHL,0.3407047169440773,33,Jordan,Philippines
+GTM,TZA,0.3490772444941741,33,Guatemala,Tanzania
+CRI,JOR,0.3548595105739829,33,Costa Rica,Jordan
+OMN,QAT,0.3588189331358577,33,Oman,Qatar
+BOL,BTN,0.3788572365136652,33,Bolivia,Bhutan
